@@ -8,9 +8,7 @@ You can find me on :
 
 ### DevAuth - Device Based Federated Login
 
-![P11](imgs/P11.png)
-![P12](imgs/P12.png)
-![P13](imgs/P13.png)
+![P11](imgs/Combine.png)
 
 Federated login using protocols like OpenID Connect is convenient as it solves the problem of password reuse by allowing the use of the same account across different websites, but that creates another issue. The main problem in this infrastructure is reliance on these third-party identity providers to relay information to client applications. We seek to address the problem of our reliance on corporate ownership of sensitive user information. In this project,we developed a Proof of Concept to demonstrate a device based federated login mechanism that selectively allows client applications access to user information without them going through third parties. We design a flow for DevAuth that resembles the RFC-6819 implicit flow, and assess the security implications of such a protocol. We show that although future work needs to be done to holistically assess the protocol, it is a viable alternative to current federated login techniques.
 
