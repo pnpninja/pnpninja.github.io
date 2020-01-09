@@ -1,24 +1,20 @@
-## Welcome to my space!
+## Welcome to my little corner in the Digital World!
 
-Here I present to you an assortment of some pet projects on Data Science and some academic projects on Computer Networks and Parallel Computing. Happy Browsing! :D
+My primary interest is in Cybersecurity, Data Science and Distributed Systems. Here's the finest collection of the projects I have worked on. 
 
-Also find me here:
+You can find me on : 
 
-[![Linkedin](imgs/linkedin.JPG)](https://www.linkedin.com/in/madhavisrinivasan/)    &nbsp;&nbsp;          [![Instagram](imgs/instagram.JPG)](https://www.instagram.com/madhavi.94/)
+[![Linkedin](imgs/linkedin.JPG)](https://www.linkedin.com/in/prateeknar/)    &nbsp;&nbsp;          [![Instagram](imgs/instagram.JPG)](https://www.instagram.com/narendraprateek/)
 
-### Where-to-next - A Google Local Recommendation System
+### DevAuth - Device Based Federated Login
 
-![poster](imgs/poster.jpg)
+![P11](imgs/P11.png)
+![P12](imgs/P12.png)
+![P13](imgs/P13.png)
 
-In recent years, the use of systems that can make personalized recommendations using user data and purchase/visit history has increased significantly. Everyday millions of searches are made on Google, with a bulk of the searches attributed to look for reviews before visiting a particular place. User preference, Item popularity and User stringency while giving ratings vary over time, which adds to the complication of suggesting places. Traditional recommendation systems use collaborative and content-based methods, but do not incorporate time information. Hence, I have used variants of collaborative filtering methods to capture the temporal effects while making recommendations. This enables the system to make personalized recommendations.
+Federated login using protocols like OpenID Connect is convenient as it solves the problem of password reuse by allowing the use of the same account across different websites, but that creates another issue. The main problem in this infrastructure is reliance on these third-party identity providers to relay information to client applications. We seek to address the problem of our reliance on corporate ownership of sensitive user information. In this project,we developed a Proof of Concept to demonstrate a device based federated login mechanism that selectively allows client applications access to user information without them going through third parties. We design a flow for DevAuth that resembles the RFC-6819 implicit flow, and assess the security implications of such a protocol. We show that although future work needs to be done to holistically assess the protocol, it is a viable alternative to current federated login techniques.
 
-The following different types of the recommendation models were implemented:
-
-1. Neighbourhood Model (User-User collaborative filtering)
-2. Latent-Factor Model
-3. Content-Based Model
-
-[Link to Repo](https://github.com/madhasri/where-to-next)
+[Link to Repo](https://github.com/pnpninja/DevAuth)
 
 ### Seattle Crime Visualization
 
