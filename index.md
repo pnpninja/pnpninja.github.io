@@ -14,13 +14,13 @@ Federated login using protocols like OpenID Connect is convenient as it solves t
 
 [Link to Repo](https://github.com/pnpninja/DevAuth)
 
-### Seattle Crime Visualization
+### Semantic Approach for Classifying Twitter Users
 
-![MandelBrot](imgs/Seattle-Crime.png)
+![SocialMedia](imgs/SocialMedia.png)
 
-Created an informational visualization to help the general public identify the high crime zones filtered by area, time, month and day of the week. Additionally, a secondary page in this visualization allows the user to compare two neighbourhoods of Seattle and show a much more granular vision of the crime incidence.
+Social Media has grown rapidly in the past several years. Twitter in particular has seen a significant rise in its user audience because of the short and compact Tweet concept (140 characters). As more users come on board, it provides a large market for companies to advertise and and prospective customers by classifying users into different market categories. Traditional classification methods use TF-IDF and bag of words concept as the feature vector which inevitably is of large dimensions. In this project, we propose a method to improve the method of classification by using semantic information to reduce dimensions of the feature vectors and validate this method by feeding them into multiple learning algorithms and evaluating the results.
 
-[Link to Visualization](https://public.tableau.com/profile/madhavi.srinivasan#!/vizhome/HowsafeisourSeattle_0/CrimeinSeattle-Anoverview?publish=yes)
+[Link to Paper](https://link.springer.com/chapter/10.1007/978-981-10-3376-6_3)
 
 
 
