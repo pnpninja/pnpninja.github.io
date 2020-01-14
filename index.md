@@ -2,6 +2,8 @@
 
 My primary interest is in Cybersecurity, Data Science and Distributed Systems. Here's the finest collection of the projects I have worked on. 
 
+[Here is my resume](/CV-Prateek Narendra.pdf)
+
 You can find me on : 
 
 [![Linkedin](imgs/linkedin.JPG)](https://www.linkedin.com/in/prateeknar/)    &nbsp;&nbsp;          [![Instagram](imgs/instagram.JPG)](https://www.instagram.com/narendraprateek/)
