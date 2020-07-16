@@ -16,6 +16,12 @@ Federated login using protocols like OpenID Connect is convenient as it solves t
 
 [Link to Repo](https://github.com/pnpninja/DevAuth)
 
+### Mozilla Web Tracker Analysis
+
+Mozilla Firefox has Privacy Tracking Protection feature in the browser, which seeks to blocks ads and other scripts that track users. However, this feature can sometimes break website functionality. We are analyzing the efficiency and performance of this tool by comparing the functionality and look with the feature disabled and enabled over the top 10000 most visited websites using automated Screenshot Comparison Analysis and Automated Monkey Testing
+
+[Link to Repo](https://github.com/pnpninja/MozillaWebTrackerAnalysis)
+
 ### Semantic Approach for Classifying Twitter Users
 
 ![SocialMedia](imgs/SocialMedia.png)
@@ -48,7 +54,7 @@ We developed a set of qualitative and quantitative metrics to select the most ap
 
 ![Netwok](imgs/Network.png)
 
-Wireless Sensor Networks (WSNs) and Cloud computing are two emerging technologies, respectively, in the networking and computing fields. Sensor Cloud integrates WSNs and Clouds into an extended form of cloud infrastructure that manages sensors scattered throughout WSNs. Networking plays a crucial role in Cloud computing and becomes a particularly challenging issue in sensor Clouds due to resource limitation of WSNs as the underlying network of the Cloud infrastructure. Therefore, data transmission from sensors to servers in sensor Clouds must be carefully controlled to avoid network congestion. We have studied Random Early Detection-Based (RED-based) congestion control for data transmission in sensor Clouds. Then we propose an improved RED algorithm that meets sensor Cloud networking requirements better and develop a queueing model coupled with analysis technique to evaluate the performance of the proposed conges- tion control scheme. We conduct basic simulations to evaluate performance of Improved RED compared with the regular RED algorithm. Our analysis and simulation results demonstrate that the proposed congestion control achieves better drop rate performance in comparison with the standard RED for data transmission in sensor Clouds. The easily implemented control mechanism and low complexity of our proposed algorithm make it more suitable for sensor Clouds.
+Wireless Sensor Networks (WSNs) and Cloud computing are two emerging technologies, respectively, in the networking and computing fields. Sensor Cloud integrates WSNs and Clouds into an extended form of cloud infrastructure that manages sensors scattered throughout WSNs. Networking plays a crucial role in Cloud computing and becomes a particularly challenging issue in sensor Clouds due to resource limitation of WSNs as the underlying network of the Cloud infrastructure. Therefore, data transmission from sensors to servers in sensor Clouds must be carefully controlled to avoid network congestion. We have studied Random Early Detection-Based (RED-based) congestion control for data transmission in sensor Clouds. Then we propose an improved RED algorithm that meets sensor Cloud networking requirements better and develop a queueing model coupled with analysis technique to evaluate the performance of the proposed congestion control scheme. We conduct basic simulations to evaluate performance of Improved RED compared with the regular RED algorithm. Our analysis and simulation results demonstrate that the proposed congestion control achieves better drop rate performance in comparison with the standard RED for data transmission in sensor Clouds. The easily implemented control mechanism and low complexity of our proposed algorithm make it more suitable for sensor Clouds.
 
 [Link to Report](https://github.com/pnpninja/NetworkProjectReport/raw/master/NetworkProject.pdf)
 
